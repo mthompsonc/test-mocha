@@ -1,0 +1,26 @@
+{
+  "name": "mocha-test",
+  "version": "1.0.0",
+  "description": "Practice.",
+  "main": "js/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter=nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mthompsonc/test-mocha.git"
+  },
+  "author": "María Paz Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mthompsonc/test-mocha/issues"
+  },
+  "homepage": "https://github.com/mthompsonc/test-mocha#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "jquery": "^3.3.1"
+  }
+}
